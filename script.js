@@ -61,7 +61,7 @@ const messages = [
     "Hala hayira basmaya devam mi edeceksin?",
     "Evete basmazsan görürsün",
     "Özür dilerim hadi tamam bas artik evete ❤️",
-    "İşi senin için kolaylaştiriyim kafan karişmasin.",
+    "İşi senin için kolaylaştirayim.",
     "Şakaydi ama bas hadi artik evete! ❤️"
 ];
 
