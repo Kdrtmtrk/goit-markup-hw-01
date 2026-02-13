@@ -62,10 +62,10 @@ const messages = [
     "Evete basmazsan görürsün",
     "Özür dilerim hadi tamam bas artik evete ❤️",
     "İşi senin için kolaylaştirayim.",
-    "Şakaydi ama bas hadi artik evete! ❤️"
-    "Seni seviyorum bas arik lütfen."
-    "Son 2 şansin yeter"
-    "Beni seviyosan basarsin evete ❤️"
+    "Şakaydi ama bas hadi artik evete! ❤️",
+    "Seni seviyorum bas arik lütfen.",
+    "Son 2 şansin yeter",
+    "Beni seviyosan basarsin evete ❤️",
 ];
 
 let messageIndex = 0;
