@@ -9,10 +9,18 @@ body {
 }
 
 .container {
+    min-height: 100svh;
+    padding: 20px;
+    display: grid;
+    place-items: center;
     text-align: center;
 }
 
 .header_text {
+    max-width: 60ch;
+    font-size: clamp(18px, 5vw, 32px);
+    line-height: 1.35;
+    overflow-wrap: anywhere;
     font-size: 3em;
     color: #d32f2f;
 }
